@@ -1,0 +1,6 @@
+# Envs
+mac_venv/*
+win_venv/*
+# Other dirs
+test/*
+.vscode/*
